@@ -26,3 +26,35 @@ En este perfil encontrarás mis habilidades, mis proyectos destacados y las form
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+## 🚀 Proyectos Destacados
+
+### 🌳 Landing Page Parque Samanes
+Landing page sobre actividades deportivas en el Parque Samanes. Proyecto 02, Sprint 1 de ESPOL.
+
+![HTML](https://img.shields.io/badge/Landing_Page-Web-E34F26?style=flat-square)
+![ESPOL](https://img.shields.io/badge/ESPOL-Proyecto_02-0A3D62?style=flat-square)
+
+🔗 [Ver repositorio](https://github.com/kevin-moralesc/landing-page-parque-samanes)
+
+---
+
+### 🎓 Sistema de Ayudantías (Estructuras de Datos)
+Sistema backend en Java para la gestión de ayudantías y clases adicionales, aplicando estructuras de datos y persistencia con base de datos.
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Backend](https://img.shields.io/badge/Backend-Estructuras_de_Datos-555555?style=flat-square)
+
+🔗 [Ver repositorio](https://github.com/VAVBcode/ED_P1_Grupo08)
+
+---
+
+### 📊 Dashboard Comercial `🚧 En desarrollo`
+Panel de control interactivo (Dashboard) para una tienda, implementado con HTML/CSS/JS, con visualización de KPIs, filtros dinámicos y despliegue en GitHub Pages.
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+🔗 Enlace próximamente
+
