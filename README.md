@@ -1,4 +1,4 @@
-# ¡Hola! Soy Victor Villacis
+# ¡Hola! Soy Víctor Villacís
 
 ### Estudiante de Ingeniería en Ciencia de Datos e Inteligencia Artificial en la ESPOL
 
@@ -28,6 +28,15 @@ En este perfil encontrarás mis habilidades, mis proyectos destacados y las form
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ##  Proyectos Destacados
+
+###  Portafolio Digital
+Mi portafolio web personal, con diseño oscuro y responsivo, desarrollado con HTML, CSS y JavaScript y desplegado en GitHub Pages.
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+ [Ver repositorio](https://github.com/VAVBcode/VAVBcode.github.io) · [Ver sitio en vivo](https://vavbcode.github.io)
 
 ###  Landing Page Parque Samanes
 Landing page sobre actividades deportivas en el Parque Samanes. Proyecto 02, Sprint 1 de ESPOL.
