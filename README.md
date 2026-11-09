@@ -27,15 +27,15 @@ En este perfil encontrarás mis habilidades, mis proyectos destacados y las form
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-## 🚀 Proyectos Destacados
+##  Proyectos Destacados
 
-### 🌳 Landing Page Parque Samanes
+###  Landing Page Parque Samanes
 Landing page sobre actividades deportivas en el Parque Samanes. Proyecto 02, Sprint 1 de ESPOL.
 
 ![HTML](https://img.shields.io/badge/Landing_Page-Web-E34F26?style=flat-square)
 ![ESPOL](https://img.shields.io/badge/ESPOL-Proyecto_02-0A3D62?style=flat-square)
 
-🔗 [Ver repositorio](https://github.com/kevin-moralesc/landing-page-parque-samanes)
+ [Ver repositorio](https://github.com/kevin-moralesc/landing-page-parque-samanes)
 
 ---
 
@@ -45,11 +45,11 @@ Sistema backend en Java para la gestión de ayudantías y clases adicionales, ap
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Backend](https://img.shields.io/badge/Backend-Estructuras_de_Datos-555555?style=flat-square)
 
-🔗 [Ver repositorio](https://github.com/VAVBcode/ED_P1_Grupo08)
+ [Ver repositorio](https://github.com/VAVBcode/ED_P1_Grupo08)
 
 ---
 
-### 📊 Dashboard Comercial `🚧 En desarrollo`
+### Dashboard Comercial ` En desarrollo`
 Panel de control interactivo (Dashboard) para una tienda, implementado con HTML/CSS/JS, con visualización de KPIs, filtros dinámicos y despliegue en GitHub Pages.
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -58,3 +58,13 @@ Panel de control interactivo (Dashboard) para una tienda, implementado con HTML/
 
 🔗 Enlace próximamente
 
+## Contacto
+
+¿Quieres colaborar, conversar sobre un proyecto o simplemente saludar? Escríbeme:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Víctor_Villacís-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/v%C3%ADctor-villac%C3%ADs-7364bb346/)
+[![Gmail](https://img.shields.io/badge/Gmail-vavbcode@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vavbcode@gmail.com)
+
+---
+
+Gracias por visitar mi perfil.
